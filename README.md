@@ -224,6 +224,25 @@ Data competition Top Solution 数据竞赛Top解决方案开源整理
 10. 科赛 - 百度 PaddlePaddle AI 大赛——智能问答  
    Rank3：https://github.com/312shan/rc_tf
 
+11. AI Challenger 2018 QA观点型问答
+  官方baseline: 基于pytorch实现论文《Multiway Attention Networks for Modeling Sentence Pairs》: (Baseline)[https://github.com/AIChallenger/AI_Challenger_2018/tree/master/Baselines/opinion_questions_machine_reading_comprehension2018_baseline]
+  将baseline迁移到了python 3.6.6，修正了错误，改变参数最高accuracy为 0.70370：https://github.com/dreamnotover/oqmrc2018
+  奇点机智分享的可以在Testa上超越第一的BERT方案：https://www.jianshu.com/p/aa2eff7ec5c1
+  AI Challenger 2018 观点型问题阅读理解 复赛第8名 解决方案：https://github.com/yuhaitao1994/AIchallenger2018_MachineReadingComprehension
+  
+12. AI Challenger 2018细粒度用户评论情感分析
+  (AI Challenger 2018 冠军 PPT 分享---细粒度情感分析赛道)[https://mp.weixin.qq.com/s/W0PhbE8149nD3Venmy33tw]
+  (代码)[https://github.com/chenghuige/wenzheng/tree/master/projects/ai2018/sentiment]
+  TOP2. 亚军解决方案：[AI Challenger2018情感分析赛道亚军PPT分享](https://mp.weixin.qq.com/s/SycD5rGNeK5NwYwfmgCKoA)
+
+  TOP4. 决赛第4名解决方案：(AI Challenger 2018 第4名PPT分享---细粒度情感分析赛道)[https://mp.weixin.qq.com/s/J6jPxIToPJsA7aSb7wzIuQ]
+  
+13. AI Challenger 2018英中文本机器翻译
+  Top1. 冠军解决方案分享：(AI Challenger 2018 机器翻译参赛总结)[https://zhuanlan.zhihu.com/p/54060156]
+  决赛第5名分享:http://www.52nlp.cn/ai-challenger-2018-%E7%AE%80%E8%AE%B0
+  TestB第10名同学的分享：AI Challenger_2018英中文本机器翻译_参赛小结: https://zhuanlan.zhihu.com/p/50153808
+  相关代码：https://github.com/gzhcv/AIChallenger2018_English_Chinese_Machine_Translation
+  
 ### 三、CV：
 1. Kaggle-TGS
    Rank1: http://t.cn/EzkDlOC  
@@ -317,11 +336,4 @@ http://t.cn/ReIJOXK
 【计算机视觉“小众”数据集集锦】《Rare Datasets for Computer Vision Every Machine Learning Expert Must Work With》 http://t.cn/EZE9Vb7
 
    
-**PS：**
- 特别感谢金老师对整理比赛开源已做出的贡献,特别是在2016年的ccf大赛中
- 团队联系方式：  
-      Smile  qq:240485545  Email:smile.xuhc@gmail.com   
-      PUSH  qq:1471386635 Email:1471386635@qq.com   
-      dive2space qq: 1124361357 Email:dive2space@qq.com  
-      Jean_V  qq:2398963799  Email:jianwu925@qq.com
-      
+
